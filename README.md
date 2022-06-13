@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+# Mayya Sundukova, PhD
 
-You can use the [editor on GitHub](https://github.com/msundukova/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Researcher and facilitator mentor based in Bilbao, Spain_<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/) 
 
-### Markdown
+pronouns: she/her<br>
+WoS Researcher ID AAA-2526-2020 SCOPUS Author ID 36085779600 ORCID 0000-0003
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 🔬 Research Experience
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 🌱 Facilitation, coaching and mentoring experience
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msundukova/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Coach
 
-### Support or Contact
+Mentor
+Open Life Science
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mentor
+REBECA
+
+Mentor 
+REFERENT
+
+Facilitator in therapeutic writing
+
+Facilitator in cohort calls
+
+
+## 💬 Qualitative research skills
+
+Intro to qualitative Research
+
+Organizing focus groups for research on training
+
+
+## 👩🏼‍🎓 Education
+
+Interactive student in 
+**Deep Learning** 3 week intensive course and project<br>
+[Neuromatch Academy (NMA)](https://academy.neuromatch.io/) - online _(August 2021)_
+08/2021<br>
+PyTorch course on Deep Learning and group computer vision project on “Using VAEs architecture
+for transfer learning”<br>
+mentored by Alex Hernandez-Garcia (Mila - Quebec AI Institute) 
+
+
+**Master Degree in Physics** <br>
+[University of Trieste](https://www.units.it/) - Trieste, Italy _(2019)_<br>
+Official recognition and diploma (Laurea Magistrale)
+
+**PhD in Neuroscience**<br> 
+[SISSA (International School for Advanced Studies)](https://www.sissa.it/) - Trieste, Italy _(2007 – 2012)_<br>
+Thesis: “Multifaceted regulation of pain-transducing P2X3 receptors”, Advisor: A. Nistri
+
+**Specialist Degree in Physics** with Honours<br> 
+(5-year program), specialization: Medical Physics<br> 
+[Kazan State University](https://eng.kpfu.ru/) - Kazan, Russia _(2002-2007)_<br>
+Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Skorinkin, A.Mutina
+
+## 🌐 Languages
+
+**English**: Full professional efficiency <br>
+**Italian**: Full professional efficiency<br>
+**Russian**: Native<br>
+**Spanish**: B1
+<br><br>
+
+
+
