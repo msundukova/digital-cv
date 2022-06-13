@@ -11,6 +11,17 @@ _pronouns: she/her_<br>
 [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/)<br>
 [Open Life Science](https://openlifesci.org/)<br>
 
+## 🌱 Open Science
+- *Mentor* at [Open Life Science (OLS)](https://openlifesci.org) - training and mentoring program for researchers and other stakeholders to embed open principles in their work<br>
+OLS-5 cohort, online _(February - July 2022)_<br>
+- *Facilitator* in cohort calls at [Open Life Science (OLS)](https://openlifesci.org)<br>
+OLS-5 cohort, online _(February - July 2022)_ and OLS-3 cohort, online _(February - July 2021)_<br>
+- Co-designed and co-led a 3-hour interactive **workshop** *Empowering research community with open principles* - The Research Software Camp, The Software Sustainability institute - _(23/05/2022)_
+- Participant in the [OpenAIRE Train the Trainer bootcamp](https://www.openaire.eu/first-open-science-train-the-trainer-bootcamp) 
+online  _(6 - 10 June 2022)_<br> 
+intermediate and advanced level of knowledge and teaching of **Open Science, open data, DMPs, OA publishing, IPR, Horizon Europe requirements, OpenAIRE services, and EOSC**
+- **Project lead** in the training and mentoring program [“eLife Innovation Leaders 2020”](https://elifesciences.org/labs/fdcb6588/innovation-leaders-2020-introducing-the-cohort#:~:text=eLife%20Innovation%20Leaders%20is%20a,open%20science%20and%20research%20communication.) in **open leadership and open research, developing of own project** "Rekombinational" – online _(February - June 2020)_
+
 ## 💚 Mental Health and Well-being of researchers 
 - *Virtual mobility grant* from the [ReMO COST Action CA19117: "Researcher Mental Health"](https://projects.tib.eu/remo/) on [coordination of policy briefs preparation](https://github.com/msundukova/remo-policy-briefs) for ReMO countries, online - _(June 2022 – now)_<br>
 - active participant of the ReMO Working group 1,2 and 3 (system, institutional and organizational levels), including special interest group (design and preparation of the *large multi-level survey for practices of mental health  in academia*, WP2 (research and hypothesis)<br>
@@ -51,9 +62,6 @@ corresponding author), in 2015-2017 I led a team of 2 to 5 students and trainees
 *Coach* apprentice at [Narrative Coach program](https://www.themomentinstitute.com/narrative-coach-program)<br>
 The Moment Institue, online _(January - November 2022)_<br>
 
-*Mentor* at [Open Life Science (OLS)](https://openlifesci.org) - training and mentoring programs of Open Science<br>
-OLS-5 cohort, online _(February - July 2022)_<br>
-
 *Mentor* at [REBECA (Researchers beyond academia)](https://www.euraxess.es/spain/rebeca-euraxess) mentoring program for career outside academia<br>
 Euraxess, online _(February - July 2022)_<br>
 
@@ -61,9 +69,6 @@ Euraxess, online _(February - July 2022)_<br>
 Marie Curie Alumni Association, online _(April - October 2022)_<br>
 
 *Facilitator* in therapeutic writing, online _(April 2022 - now)_<br>
-
-*Facilitator* in cohort calls at [Open Life Science (OLS)](https://openlifesci.org)<br>
-OLS-5 cohort, online _(February - July 2022)_ and OLS-3 cohort, online _(February - July 2021)_<br>
 
 
 ## 💬 Qualitative research skills
@@ -76,10 +81,6 @@ co-designed, co-moderated, co-analyzed a focus group on 10 May 2022, online - _(
 
 ## 🥾Training, courses and hackathons
 
-- Participant in the [OpenAIRE Train the Trainer bootcamp](https://www.openaire.eu/first-open-science-train-the-trainer-bootcamp) 
-online  _(6 - 10 June 2022)_<br> 
-intermediate and advanced level of knowledge and teaching of **Open Science, open data, DMPs, OA publishing, IPR, Horizon Europe requirements, OpenAIRE services, and EOSC**
-
 - Participant in the [OEduverse Winter School (hackathon) - Design your Research
 Environment](https://oeduverse.eu/events/oeduverse-winter-school/) - online _(10-17/01/2022)_ <br>
 1-week intensive hackathon to design optimal research environment using **Open Science principles, focus on
@@ -91,8 +92,6 @@ mental wellbeing and communication skills**
 PyTorch course on Deep Learning and group computer vision project on “Using VAEs architecture
 for transfer learning”<br>
 mentored by Alex Hernandez-Garcia (Mila - Quebec AI Institute) 
-
-- **Project lead** in the training and mentoring program [“eLife Innovation Leaders 2020”](https://elifesciences.org/labs/fdcb6588/innovation-leaders-2020-introducing-the-cohort#:~:text=eLife%20Innovation%20Leaders%20is%20a,open%20science%20and%20research%20communication.) in **open leadership and open research, developing of own project** "Rekombinational" – online _(February - June 2020)_
 
 - Amateur *Theatre School* “Lo spazio vuoto”, in-person  - Monterotondo, Italy _(2016-2018)_
 - 60-hours course on *verbal and non-verbal communication* (nr. FP1114791002), IAL FVG, in-person, Trieste, Italy_(2011)_
@@ -121,7 +120,7 @@ Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Sko
 **Spanish**: B1<br>
 
 ## 🗣️ Selected given workshops and trainings:
-- 3 hour interactive workshop *Empowering research community with open principles* - The Research Software Camp, The Software Sustainability institute - _(23/05/2022)_
+
 - *Towards helping practitioner for researchers* - The Open Life Science OLS-5 cohort call on career and open leadership - _(25/04/2022)_
 - Interactive workshop *Journey* using narradrama approach – festival of narradrama (in Russian) –
 18/12/2021 Online
