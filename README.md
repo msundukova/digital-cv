@@ -29,7 +29,10 @@ and [1st Conference of the Researcher Mental Health Observatory (ReMO 2022)](htt
 - design and coordination of the content for the institutional website
 
 **Maternity/caregiving hiatus** - 2019
-- science consulting and manuscript writing | science communication in a professional magazine on Medical Writing | talk at the microscopy symposium |active member of online training and community “industry & business” knowledge for PhDs
+- science consulting and manuscript writing
+- science communication in a professional magazine on Medical Writing
+- talk at the microscopy symposium
+- active member of online training and community “industry & business” knowledge for PhDs
 
 **Interdisciplinary EIPOD Postdoctoral Fellow** 
 *Neuroscience and Epigenetics/Mouse Biology*
