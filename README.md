@@ -12,11 +12,11 @@ _🏛️ Affiliations:_ <br>
 
 ## 💚 Researcher Mental Health Observatory (ReMO COST Action CA19117) 
 - *Virtual mobility grant* holder on coordination of policy briefs preparation for ReMO countries, online - _(June 2022 – now)_<br>
-- active articipant of the Working group 1,2 and 3(systemic, institutional and organizational level)
+- active articipant of the Working group 1,2 and 3 (system, institutional and organizational levels)
 [ReMO COST Action CA19117: "Researcher Mental Health"](https://projects.tib.eu/remo/), online - _(January 2022 – now)_<br>
 - special interest group -design and preparation of the large multi-level survey for practices of mental health support
 in academia, WP2 (research and hypothesis)
-- Program organising committee for [ReMO Ambassador Training School] (https://projects.tib.eu/remo/activities/training-schools/)
+- Program organising committee for [ReMO Ambassador Training School](https://projects.tib.eu/remo/activities/training-schools/)
 and [1st Conference of the Researcher Mental Health Observatory (ReMO 2022)](https://projects.tib.eu/remo/remo-2022-conference/)
 - co-organiser and moderator of the session at the [MCAA conference] (https://www.mariecuriealumni.eu/conference-2022), Lisbon, Portugal - _(27, 28 March 2022)_<br>
 
