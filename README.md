@@ -6,7 +6,7 @@ _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 [Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/)/ [ORCID](https://orcid.org/0000-0003-1328-0008)<br> 
 
 _pronouns: she/her_<br>
-_🏛️ Affiliations:_ <br>
+## 🏛️ Affiliations:
 [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/)<br>
 [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/)<br>
 [Open Life Science](https://openlifesci.org/)<br>
@@ -92,7 +92,6 @@ mentored by Alex Hernandez-Garcia (Mila - Quebec AI Institute)
 - **Project lead** in the training and mentoring program [“eLife Innovation Leaders 2020”](https://elifesciences.org/labs/fdcb6588/innovation-leaders-2020-introducing-the-cohort#:~:text=eLife%20Innovation%20Leaders%20is%20a,open%20science%20and%20research%20communication.) in **open leadership and open research, developing of own project** "Rekombinational" – online _(February - June 2020)_
 
 - Amateur *Theatre School* “Lo spazio vuoto”, in-person  - Monterotondo, Italy _(2016-2018)_
-
 - 60-hours course on *verbal and non-verbal communication* (nr. FP1114791002), IAL FVG, in-person, Trieste, Italy_(2011)_
 
 
@@ -119,8 +118,8 @@ Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Sko
 **Spanish**: B1<br>
 
 ## 🗣️ Selected given workshops and trainings:
-- 3 hour interactive workshop *Empowering research community with open principles* - The Research Software Camp - _(23/05/2022)_
-- *Towards helping practitioner for researchers* - The OLS-5 cohort call on career and open leadership - _(25/04/2022)_
+- 3 hour interactive workshop *Empowering research community with open principles* - The Research Software Camp, The Software Sustainability institute - _(23/05/2022)_
+- *Towards helping practitioner for researchers* - The Open Life Science OLS-5 cohort call on career and open leadership - _(25/04/2022)_
 - Interactive workshop *Journey* using narradrama approach – festival of narradrama (in Russian) –
 18/12/2021 Online
 - *Beyond academia” using imagery* speaker at the 2022 MCAA Annual Conference, 27-28/03/2022,
@@ -143,7 +142,7 @@ channel group, UCL, London, UK
 -“Identification and optimization of novel adenine-based antagonists of P2X3 receptors” - 01/06/2010,
 Purines Meeting, Tarragona, Spain
 
-## Competitive grants and awarded funding:
+##  Grants and funding:
 1. Research mobility funding. Travel grant from Marie Curie Alumni Association to attend MCAA conference
 in 2022
 2. Scholarship covering 50% of tuition fees for Narrative Coach Training Program, The Moment Institute
