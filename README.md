@@ -19,38 +19,42 @@ _Affiliations:_ <br>
 
 ## 🌱 Facilitation, coaching and mentoring experience
 
-
 *Coach* apprentice at [Narrative Coach program](https://www.themomentinstitute.com/narrative-coach-program)<br>
 The Moment Institue, online _(January - November 2022)_<br>
-- I am mastering my coaching skills
 
-*Mentor* at [Open Life Science (OLS)](https://openlifesci.org)<br>
+*Mentor* at [Open Life Science (OLS)](https://openlifesci.org) - training and mentoring programs of Open Science<br>
 OLS-5 cohort, online _(February - July 2022)_<br>
-- I help other researchers to develop their open projects and themselves to be Open Science Ambassadors <br>
 
-*Mentor* at [REBECA (Researchers beyond academia)](https://www.euraxess.es/spain/rebeca-euraxess)<br>
+*Mentor* at [REBECA (Researchers beyond academia)](https://www.euraxess.es/spain/rebeca-euraxess) mentoring program for career outside academia<br>
 Euraxess, online _(February - July 2022)_<br>
-- I help other researchers in academia explore their opportunities beyond academia <br>
 
-*Mentor* at [REFERENT](https://www.mariecuriealumni.eu/referent-2022-relaunch)<br>
+*Mentor* at [REFERENT](https://www.mariecuriealumni.eu/referent-2022-relaunch), mental health- focused mentoring program<br>
 Marie Curie Alumni Association, online _(April - October 2022)_<br>
-- I help other researchers in academia with mental health topics <br>
 
 *Facilitator* in therapeutic writing, online _(April 2022 - now)_<br>
 
-Facilitator in cohort calls at Open Life Science (OLS)](https://openlifesci.org)<br>
+*Facilitator* in cohort calls at [Open Life Science (OLS)](https://openlifesci.org)<br>
 OLS-5 cohort, online _(February - July 2022)_<br>
 OLS-3 cohort, online _(February - July 2021)_<br>
 
 
 ## 💬 Qualitative research skills
 
-Intro to qualitative Research
+*Qualitative Research for Quantitative Researchers*  - 4 week interactive course
+with [Dr Beth Duckles](https://bethduckles.podia.com/) -  online _(May - June 2022)<br>
 
-Organizing focus groups for research on training
+*Organizing focus groups for research on training* - training and mini-project with [Discovery Learning](https://discoverylearning.eu/results/traininglearning-options/dl-resources/white-paper-wp)<br>
+co-designed, co-moderated, co-analyzed a focus group on 10 May 2022, online - _(March - May 2022)_<br>
 
+## Training, courses and hackathons
 
-## 👩🏼‍🎓 Education
+OpenAIRE Train the Trainer bootcamp
+
+Participant in OEduverse Winter School (hackathon) - Design your Research
+Environment
+10-17/01/2022
+• 1-week intensive hackathon to design optimal research environment using Open Science principles, focus on
+mental wellbeing and communication skills
 
 Interactive student in 
 **Deep Learning** 3 week intensive course and project<br>
@@ -60,6 +64,8 @@ PyTorch course on Deep Learning and group computer vision project on “Using VA
 for transfer learning”<br>
 mentored by Alex Hernandez-Garcia (Mila - Quebec AI Institute) 
 
+
+## 👩🏼‍🎓 Education
 
 **Master Degree in Physics** <br>
 [University of Trieste](https://www.units.it/) - Trieste, Italy _(2019)_<br>
