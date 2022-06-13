@@ -124,7 +124,7 @@ Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Sko
 - *Towards helping practitioner for researchers* - The Open Life Science OLS-5 cohort call on career and open leadership - _(25/04/2022)_
 - Interactive workshop *Journey* using narradrama approach – festival of narradrama (in Russian) –
 18/12/2021 Online
-- *Beyond academia” using imagery* speaker at the 2022 MCAA Annual Conference, 27-28/03/2022,
+- *Beyond academia using imagery* speaker at the 2022 MCAA Annual Conference, 27-28/03/2022,
 Lisbon, Portugal
 - *Intersectoral (career) mobility: reflections from the liminality space* EURAXESS - Supporting
 researchers’ intersectoral career paths for building ERA Conference – 20/01/2022 Online
