@@ -1,4 +1,5 @@
 # Mayya Sundukova, PhD
+updated: June 2022
 
 _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 
@@ -115,7 +116,6 @@ Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Sko
 ## Competitive grants and awarded funding:
 1. Research mobility funding. Travel grant from Marie Curie Alumni Association to attend MCAA conference
 in 2022
-3
 2. Scholarship covering 50% of tuition fees for Narrative Coach Training Program, The Moment Institute
 (2021-2022).
 3. Postdoctoral fellowship. Funding entity: Fundacion Biofisika Bizkaia. 15/01/2020 – 14/01/2021.
@@ -164,7 +164,7 @@ Purines Meeting, Tarragona, Spain
 
 ## Publications
 
-ORCID
+Works listed on [ORCID](https://orcid.org/0000-0003-1328-0008)
 
 ## Experience in Innovation Leadership | Industry | Career Development:
 Community: active member of Bizkaia Talent Euraxess network | Completed training and mentoring program “eLife
