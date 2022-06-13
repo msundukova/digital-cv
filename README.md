@@ -26,7 +26,7 @@ The Moment Institue, online _(January - November 2022)_<br>
 
 *Mentor* at [Open Life Science (OLS)](https://openlifesci.org)<br>
 OLS-5 cohort, online _(February - July 2022)_<br>
-- I help other researchers to develop their open projects and themselves to be Open Science Ambassadors <br>e
+- I help other researchers to develop their open projects and themselves to be Open Science Ambassadors <br>
 
 *Mentor* at [REBECA (Researchers beyond academia)](https://www.euraxess.es/spain/rebeca-euraxess)<br>
 Euraxess, online _(February - July 2022)_<br>
@@ -36,10 +36,11 @@ Euraxess, online _(February - July 2022)_<br>
 Marie Curie Alumni Association, online _(April - October 2022)_<br>
 - I help other researchers in academia with mental health topics <br>
 
+*Facilitator* in therapeutic writing, online _(April 2022 - now)_<br>
 
-Facilitator in therapeutic writing
-
-Facilitator in cohort calls
+Facilitator in cohort calls at Open Life Science (OLS)](https://openlifesci.org)<br>
+OLS-5 cohort, online _(February - July 2022)_<br>
+OLS-3 cohort, online _(February - July 2021)_<br>
 
 
 ## 💬 Qualitative research skills
