@@ -74,7 +74,7 @@ Marie Curie Alumni Association, online _(April - October 2022)_<br>
 ## 💬 Qualitative research skills
 
 *Qualitative Research for Quantitative Researchers*  - 4 week interactive course
-with [Dr Beth Duckles](https://bethduckles.podia.com/) -  online _(May - June 2022)<br>
+with [Dr Beth Duckles](https://bethduckles.podia.com/) -  online _(May - June 2022)_<br>
 
 *Organizing focus groups for research on training* - training and mini-project with [Discovery Learning](https://discoverylearning.eu/results/traininglearning-options/dl-resources/white-paper-wp)<br>
 co-designed, co-moderated, co-analyzed a focus group on 10 May 2022, online - _(March - May 2022)_<br>
