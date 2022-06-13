@@ -5,7 +5,10 @@ _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 [Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/)/ [ORCID](https://orcid.org/0000-0003-1328-0008)<br> 
 
 _pronouns: she/her_<br>
-_Affiliations:_: [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/), [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/), [Open Life Science](https://openlifesci.org/)
+_Affiliations:_ <br>
+[Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/)<br>
+[Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/)<br>
+[Open Life Science](https://openlifesci.org/)<br>
 
 ## 🔬 Research Experience
 
