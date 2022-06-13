@@ -10,7 +10,7 @@ _Affiliations:_ <br>
 [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/)<br>
 [Open Life Science](https://openlifesci.org/)<br>
 
-## Researcher Mental Health Observatory (ReMO COST Action CA19117) 
+## 💚 Researcher Mental Health Observatory (ReMO COST Action CA19117) 
 - *Virtual mobility grant* holder on coordination of policy briefs preparation for ReMO countries, online - _(June 2022 – now)_<br>
 - active articipant of the Working group 1,2 and 3(systemic, institutional and organizational level)
 [ReMO COST Action CA19117: "Researcher Mental Health"](https://projects.tib.eu/remo/), online - _(January 2022 – now)_<br>
@@ -23,25 +23,23 @@ and [1st Conference of the Researcher Mental Health Observatory (ReMO 2022)](htt
 
 ## 🔬 Research Experience
 
-Postdoctoral Fellow
-Basque Center for Biophysics (Instituto Biofisika), Leioa, Spain
-01/2020 – 01/2021
+*Postdoctoral Fellow*
+Basque Center for Biophysics (Instituto Biofisika), Leioa, Spain, _(01/2020 – 01/2021)_
 • Memory “in-a-dish”: studying AMPA receptors plasticity in cultured neurons with live fluorescence imaging
 Maternity/caregiving hiatus 2019
 science consulting and manuscript writing • science communication in a professional magazine on Medical Writing
 • talk at the microscopy symposium • active member of online training and community “industry & business”
 knowledge for PhDs (Cheeky scientist, scientist MBA, R&D society)
-Interdisciplinary Postdoctoral Fellow
+
+*Interdisciplinary Postdoctoral Fellow* 
 Neuroscience and Epigenetics/Mouse Biology
-European Molecular Biology Laboratory (EMBL), Rome, Italy
-2013
-– 2018
+European Molecular Biology Laboratory (EMBL), Rome, Italy - _(2013 – 2018)_
 I led and managed several projects at the interface of neurobiology, biomedicine and technology development in
 molecular mechanisms of touch and pain • Main achievements: 5 publications in top-rank journals (1 as the
 corresponding author), in 2015-2017 I led a team of 2 to 5 students and trainees, co-supervised 1 Master thesis and
 5 undergraduate students, nurtured a rich network of cross-disciplinary collaborations in European and nonEuropean research centers of excellence
-PhD Candidate in Neuroscience
-SISSA (International School for Advanced Studies), Trieste, Italy
+*PhD Candidate in Neuroscience* 
+SISSA (International School for Advanced Studies), Trieste, Italy - _(2007 - 2012)_
 
 ## 🌱 Facilitation, coaching and mentoring experience
 
