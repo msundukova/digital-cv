@@ -2,10 +2,9 @@
 
 _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 
-[Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/) 
+[Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/)/ [ORCID](https://orcid.org/0000-0003-1328-0008)<br> 
 
-pronouns: she/her<br>
-WoS Researcher ID AAA-2526-2020 SCOPUS Author ID 36085779600 ORCID 0000-0003
+_pronouns: she/her_<br>
 
 
 ## 🔬 Research Experience
@@ -20,14 +19,18 @@ WoS Researcher ID AAA-2526-2020 SCOPUS Author ID 36085779600 ORCID 0000-0003
 
 Coach
 
-Mentor
-Open Life Science
+*Mentor* at [Open Life Science (OLS)](https://openlifesci.org)<br>
+OLS-5 cohort, online _(February - July 2022)_<br>
+• I commit my time to help other researchers to develop their open projects and themselves to be Open Science Ambassadors <br>e
 
-Mentor
-REBECA
+*Mentor* at [REBECA (Researchers beyond academia)](https://www.euraxess.es/spain/rebeca-euraxess)<br>
+Euraxess, online _(February - July 2022)_<br>
+• I commit my time to help other researchers in academia explore their opportunities beyond academia <br>
 
-Mentor 
-REFERENT
+*Mentor* at [REFERENT](https://www.mariecuriealumni.eu/referent-2022-relaunch)<br>
+Marie Curie Alumni Association, online _(April - October 2022)_<br>
+• I commit my time to help other researchers in academia with mental health topics <br>
+
 
 Facilitator in therapeutic writing
 
