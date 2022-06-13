@@ -5,7 +5,7 @@ _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 [Email](mailto:mayya.sundukova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mayya-sundukova/) / [GitHub](https://github.com/msundukova/) / [Twitter](https://twitter.com/mayya_sundukova/)/ [ORCID](https://orcid.org/0000-0003-1328-0008)<br> 
 
 _pronouns: she/her_<br>
-_Affiliations:_ <br>
+_🏛️ Affiliations:_ <br>
 [Institute for Globally Distributed Open Research and Education (IGDORE)](https://igdore.org/)<br>
 [Marie Curie Alumni Association (MCAA)](https://www.mariecuriealumni.eu/)<br>
 [Open Life Science](https://openlifesci.org/)<br>
@@ -70,7 +70,7 @@ with [Dr Beth Duckles](https://bethduckles.podia.com/) -  online _(May - June 20
 *Organizing focus groups for research on training* - training and mini-project with [Discovery Learning](https://discoverylearning.eu/results/traininglearning-options/dl-resources/white-paper-wp)<br>
 co-designed, co-moderated, co-analyzed a focus group on 10 May 2022, online - _(March - May 2022)_<br>
 
-## Training, courses and hackathons
+## 🥾Training, courses and hackathons
 
 OpenAIRE Train the Trainer bootcamp
 
