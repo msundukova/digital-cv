@@ -117,7 +117,7 @@ Thesis: “NMR studies of water exchange in red blood cells”, Advisors: A. Sko
 **English**: Full professional efficiency <br>
 **Italian**: Full professional efficiency<br>
 **Russian**: Native<br>
-**Spanish**: B1<br>
+**Spanish**: B2 level (Upper Intermediate), certified by EOI language school <br>
 
 ## 🗣️ Selected given workshops and trainings:
 
