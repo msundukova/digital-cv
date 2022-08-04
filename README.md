@@ -101,7 +101,7 @@ mentored by Alex Hernandez-Garcia (Mila - Quebec AI Institute)
 
 **Master Degree in Physics** <br>
 [University of Trieste](https://www.units.it/) - Trieste, Italy _(2019)_<br>
-Official recognition and diploma (Laurea Magistrale)
+Official recognition of degree equivalence (Laurea Magistrale, equipollenza)
 
 **PhD in Neuroscience**<br> 
 [SISSA (International School for Advanced Studies)](https://www.sissa.it/) - Trieste, Italy _(2007 – 2012)_<br>
