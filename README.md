@@ -1,5 +1,5 @@
 # Mayya Sundukova, PhD
-updated: June 2022
+updated: 04 August 2022
 
 _Researcher and facilitator mentor based in Bilbao, Spain_<br>
 
