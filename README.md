@@ -12,6 +12,7 @@ _pronouns: she/her_<br>
 [Open Life Science](https://openlifesci.org/)<br>
 
 ## 🌱 Open Science
+- *Content reviewer, editor and writer* at the OpenCore modules course of NASA's Tranform to Open Science (TOPS) program
 - *Mentor* at [Open Life Science (OLS)](https://openlifesci.org) - training and mentoring program for researchers and other stakeholders to embed open principles in their work<br>
 OLS-5 cohort, online _(February - July 2022)_<br>
 - *Facilitator* in cohort calls at [Open Life Science (OLS)](https://openlifesci.org)<br>
